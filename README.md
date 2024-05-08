@@ -20,19 +20,14 @@ The text is made beautiful with combination of [League Gothic](https://www.fonts
 
 ### Screenshots
 ##### Deskop browser (full width)
-![fullwidth](tmp/fullwidth.png)
 
 ##### Tablet browser (iPad)
-![tab](tmp/ipad.png)
 
 ##### Mobile browser (320px and greater)
-![mobile](tmp/mobile.png)
 
 ##### Hamburger menu toggle
-![hamburger](tmp/hamburger.gif)
 
 ##### Basic navigation and footer
-![navi](tmp/navi.gif)
 
 ### Theme Usage
 
